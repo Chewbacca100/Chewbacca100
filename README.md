@@ -5,6 +5,5 @@ about me
 - 👋 Hi, I’m Kristina
 - 👀 I’m interested in computer assembly
 - 🌱 I'm currently studying to become a programmer
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me @Chewbacca_109
 
